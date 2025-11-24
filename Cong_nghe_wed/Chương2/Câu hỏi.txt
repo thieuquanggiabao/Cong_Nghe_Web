@@ -1,2 +1,0 @@
-Tại sao khi em viết code PHP và chạy trực tiếp file bằng cách mở nó trong trình duyệt , chương trình PHP lại không chạy,
-nhưng khi tôi đặt file vào thư mục htdocs và truy cập qua địa chỉ http://localhost/... thì PHP mới hoạt động?
