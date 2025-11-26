@@ -361,7 +361,6 @@ A. Retrofit
 B. Gson
 C. Picasso
 D. jQuery
-
 ANSWER: A, B, C
 
 Những lợi ích nào khi sử dụng ConstraintLayout? (Chọn 2 đáp án)
