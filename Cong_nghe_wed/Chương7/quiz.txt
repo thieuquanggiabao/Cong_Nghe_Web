@@ -1,0 +1,3 @@
+Hãy giải thích chính xác vai trò của @yield('content') (trong file app.blade.php) và
+@section('content') (trong file homepage.blade.php). Chúng làm việc cùng nhau như thế nào
+để ghép thành file HTML cuối cùng mà trình duyệt nhận được?
