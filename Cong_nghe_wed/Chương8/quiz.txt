@@ -1,0 +1,3 @@
+Hãy so sánh PHT này (Eloquent) với PHT Chương 4 (PDO). Lợi ích lớn nhất của
+Eloquent là gì? Khi nào (trường hợp nào) thì dùng Eloquent sẽ tiện lợi hơn, và khi nào thì dùng
+PDO/SQL thuần có thể sẽ tốt hơn?
