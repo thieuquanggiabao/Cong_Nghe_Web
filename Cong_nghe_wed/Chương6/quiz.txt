@@ -1,0 +1,3 @@
+Hãy so sánh file index.php (Controller) ở PHT Chương 5 và file routes/web.php ở PHT
+này. Tại sao Laravel lại tách 'bảng chỉ dẫn' (Routing) ra khỏi 'bộ não' (Controller)? Lợi ích của
+việc này là gì?
