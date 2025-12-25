@@ -1,0 +1,1 @@
+Trong Bài tập lớn, chức năng 'Đăng nhập' là Authentication hay Authorization?
